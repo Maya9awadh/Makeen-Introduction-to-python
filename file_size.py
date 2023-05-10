@@ -1,7 +1,7 @@
 #enter the number of file
 num_file=int(input("Enter the number of files:" ))
 
-#enter the size o each file
+#enter the size of each file
 size_of_each_file=int(input("Enter the size of each file: "))
 
 #enter memory size
